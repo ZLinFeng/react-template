@@ -1,0 +1,30 @@
+#welcome .ant-col-12 {
+    margin: 10px;
+    padding: 10px;
+}
+
+#welcome .ant-col-6 {
+    margin: 10px;
+    padding: 10px;
+}
+
+#welcome .ant-col-12 label {
+    margin: 0;
+    font-size: 20px;
+    font-family: "Georgia";
+}
+
+.usage-card {
+    margin: 20px !important;
+    border-radius: 20px !important;
+}
+
+.usage-trend {
+    margin: 20px !important;
+    border-radius: 20px !important;
+}
+
+.metrics-col .ant-card {
+    margin: 10px !important;
+    border-radius: 20px !important;
+}
